@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+>*Computer Science is no more about computers than astronomy is about telescopes*
 
-You can use the [editor on GitHub](https://github.com/Kevin-Klimek/user-page/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Who I am as a person
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Who I am as a programmer
+1. Technical Tools
+  - Languages
+    - C, C++, Java, Python
+2. Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Future goals
+- [x] Get into university and move to a beautiful city
+- [ ] Work on personal projects (Finish simulation app)
+- [ ] Finish my undergrad
+- [ ] Apply and work in the industry
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Kevin-Klimek/user-page/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site was built using [GitHub Pages](https://pages.github.com/)
