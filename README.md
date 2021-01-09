@@ -4,7 +4,7 @@
 My name is Kevin Klimek and I'm an aspiring senior at University of California, San Diego studying computer science. In my free time I've taken up  amature photography and learned to love hiking and truly appreciating the vast world that we live in.
 
 
-### `Upload and link/embed images, nature photography I've taken at various trails`
+### `//Upload and link/embed images, nature photography I've taken at various trails`
 
 ## Who I am as a programmer
 I love structure and order, and I only stand for quality. I have a passion for fixing every little detail and continually optimizing every aspect to make the best programs or products posssible.
