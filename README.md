@@ -1,4 +1,4 @@
-# >*"Computer Science is no more about computers than astronomy is about telescopes"*
+# *"Computer Science is no more about computers than astronomy is about telescopes"*
 
 ## Who I am as a person
 My name is Kevin Klimek and I'm an aspiring senior at University of California, San Diego studying computer science. In my free time I've taken up  amature photography and learned to love hiking and truly appreciating the vast world that we live in.
